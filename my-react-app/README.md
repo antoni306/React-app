@@ -16,3 +16,15 @@ Note: This will impact Vite dev & build performances.
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React-app
+A web application built with React and TypeScript
+
+##Features
+Notes Manager - create and delete notes
+Currency Exchange Rates - real-time rates fetched via Axios from external API
+Currency Calculator - quick conversions between different currencies
+##Tech Stack
+React 19 + TypeScript
+Vite.js as build tool
+Axios for API communication
+MUI components
